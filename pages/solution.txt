@@ -1,7 +1,7 @@
 # Check out solution URL
 $ cat solution.txt
-Argi-dit.github.io
+argi-dit.github.io/progintro-hw0-Argi-dit
 # Ensure the URL exists
-$ curl --output /dev/null --silent --head --fail Argi-dit.github.io && \
+$ curl --output /dev/null --silent --head --fail argi-dit.github.io/progintro-hw0-Argi-dit && \
 echo "URL exists" || echo "URL does not exist"
 URL exists
